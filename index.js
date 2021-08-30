@@ -1,3 +1,5 @@
+// see docs at https://gridjs.io/
+
 new gridjs.Grid({
   sort: true,
   pagination: true,
