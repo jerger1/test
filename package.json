@@ -1,0 +1,25 @@
+{
+  "name": "testhtml",
+  "version": "1.0.0",
+  "description": "add the table from https://portal.mvp.bafin.de/database/DealingsInfo/sucheForm.do to the index.js file via grid.js such that the table matches the design and the functionalities as shown in the figma page:",
+  "main": "index.js",
+  "dependencies": {
+    "puppeteer": "^10.2.0",
+    "puppeteer-core": "^10.2.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jerger1/test.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jerger1/test/issues"
+  },
+  "homepage": "https://github.com/jerger1/test#readme"
+}

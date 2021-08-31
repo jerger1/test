@@ -1,1 +1,2 @@
-# test
+# test 
+add the table from https://portal.mvp.bafin.de/database/DealingsInfo/sucheForm.do to the index.js file via grid.js such that the table matches the design and the functionalities as shown in the figma page: 
