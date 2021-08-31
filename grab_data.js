@@ -4,7 +4,7 @@ function run () {
         try {
             const browser = await puppeteer.launch();
             const page = await browser.newPage();
-            await page.goto("https://portal.mvp.bafin.de/database/DealingsInfo/sucheForm.do?meldepflichtigerName=&zeitraum=1&emittentButton=Suche%20Emittent&emittentName=&zeitraumVon=&emittentIsin=&zeitraumBis=&locale=de_DE", { waitUntil: 'networkidle2' });
+            await page.goto("https://portal.mvp.bafin.de/database/DealingsInfo/sucheForm.do?meldepflichtigerName=&zeitraum=2&emittentButton=Search%20for%20issuer&emittentName=&zeitraumVon=&emittentIsin=&zeitraumBis=&locale=en_GB", { waitUntil: 'networkidle2' });
             
             let urls = await page.evaluate(() => {
                 var myTableArray = [];
@@ -27,4 +27,3 @@ return myTableArray;
     })
 }
 run().then(console.log).catch(console.error);
-
