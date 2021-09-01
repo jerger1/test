@@ -1,6 +1,6 @@
 # test 
 add the table from https://portal.mvp.bafin.de/database/DealingsInfo/sucheForm.do?meldepflichtigerName=&zeitraum=2&emittentButton=Search%20for%20issuer&emittentName=&zeitraumVon=&emittentIsin=&zeitraumBis=&locale=en_GB 
-to the index.js file via datatables.js(or something else if you have a better idea) such that the table matches the design and the functionalities as shown in the figma page: 
+to the index.js file via puppeteer.js(webscraper) and for the ui use datatables.js(or something else if you have a better idea) such that the table matches the design and the functionalities as shown in the figma page: 
 
 
 
