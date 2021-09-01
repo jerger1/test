@@ -1,5 +1,5 @@
 const puppeteer = require('puppeteer');
-function run () {
+  function run () {
     return new Promise(async (resolve, reject) => {
         try {
             const browser = await puppeteer.launch();
@@ -27,3 +27,6 @@ return myTableArray;
     })
 }
 run().then(console.log).catch(console.error);
+
+
+export function run();
