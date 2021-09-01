@@ -29,4 +29,3 @@ return myTableArray;
 run().then(console.log).catch(console.error);
 
 
-export function run();
