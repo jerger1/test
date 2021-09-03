@@ -26,6 +26,6 @@ return myTableArray;
         }
     })
 }
-run().then(console.log).catch(console.error);
+run();
 
-
+document.querySelector(".wrapper").innerHTML = "yikes";

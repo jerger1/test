@@ -1,11 +1,11 @@
 # test 
-add the table from https://portal.mvp.bafin.de/database/DealingsInfo/sucheForm.do?meldepflichtigerName=&zeitraum=2&emittentButton=Search%20for%20issuer&emittentName=&zeitraumVon=&emittentIsin=&zeitraumBis=&locale=en_GB 
-to the index.js file via puppeteer.js(webscraper) and for the ui use datatables.js(or something else if you have a better idea) such that the table matches the design and the functionalities as shown in the figma page: 
+the table from https://portal.mvp.bafin.de/database/DealingsInfo/sucheForm.do?meldepflichtigerName=&zeitraum=2&emittentButton=Search%20for%20issuer&emittentName=&zeitraumVon=&emittentIsin=&zeitraumBis=&locale=en_GB 
+is added to the grab.js file via puppeteer.js(node webscraper). afterwards the json should go into index.js "ajax":
 
 
-
-
-The code in grab_data.js works but it doesn't yet include price & volume category, pagination, searchbar, sorting, Csv download button. For  pagination, searchbar, sorting, you can use the framework https://datatables.net/, in the index. js file, or something else if you know a better way to do this.
+the code in grab.js kind of works(command: node grab.js) but some things are missing:
+- dont include the rows of BaFin-ID & Date of activation & include price and volume(you can see these categories when you click twice on the name category and then its in 4 c))
+- render the data from grab.js as json into index.js "ajax":
 
 
 
