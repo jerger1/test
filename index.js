@@ -2,12 +2,13 @@
 $(document).ready(function() {
   $('#example').dataTable( {
     "ajax": "ajaxtest.json",
-    "dom": 'Bfrtip',
-        "buttons": [
-            'copy', 'csv', 'excel', 'pdf', 'print'
-        ]
+    buttons: [
+      'copy', 'excel', 'pdf'
+  ]
+
   } );
 } );
-
+table.buttons().container()
+  .appendTo( $('.col-sm-6:eq(0)', table.table().container() ) );
 
 
