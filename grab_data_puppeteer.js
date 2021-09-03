@@ -26,6 +26,6 @@ return myTableArray;
         }
     })
 }
-run().then(document.getElementById('wrapper').innerText).catch(console.error);
+run().then(console.log).catch(console.error);
 
 
