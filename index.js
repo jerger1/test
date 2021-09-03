@@ -2,8 +2,8 @@
 $(document).ready(function() {
   $('#example').dataTable( {
     "ajax": "ajaxtest.json",
-    dom: 'Bfrtip',
-        buttons: [
+    "dom": 'Bfrtip',
+        "buttons": [
             'copy', 'csv', 'excel', 'pdf', 'print'
         ]
   } );
