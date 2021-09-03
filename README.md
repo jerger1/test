@@ -8,7 +8,7 @@ the code in grab.js kind of works(command: node grab.js) but some things are mis
 - render the data from grab.js as json into index.js "ajax":
 
 
-
+P.S You can see the data-changes directly here, once you pushed the updates to github: https://quizzical-hodgkin-9649e6.netlify.app/
 
 
 
