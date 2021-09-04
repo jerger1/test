@@ -1,18 +1,224 @@
 {
-    "data": [
-      [
-        "Tiger Nixon",
-        "System Architect",
-        "Edinburgh",
-        "5421",
-        "2011/04/25",
-        "$320,800",
-        "test",
-        "Accountant",
-        "Tokyo",
-        "8422",
-        "2011/07/25",
-        "$170,750"
-      ]
-    ]
+  "Emittent": [
+      {
+          "name": "Jungheinrich Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001106&meldungId=18655",
+          "isin": "DE0006219934",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "Zeitfracht Logistik Holding GmbH",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40031857&meldungId=18654"
+      },
+      {
+          "name": "VARTA AKTIENGESELLSCHAFT",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40000882&meldungId=18653",
+          "isin": "DE000A0TGJ55",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "Eckert & Ziegler Strahlen- und Medizintechnik AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001731&meldungId=18624"
+      },
+      {
+          "name": "sino Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=10117593&meldungId=18636",
+          "isin": "DE0005765507",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "Jungheinrich Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001106&meldungId=18628"
+      },
+      {
+          "name": "VARTA AKTIENGESELLSCHAFT",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40000882&meldungId=18652",
+          "isin": "DE000A0TGJ55",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "SHW AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40014142&meldungId=18643"
+      },
+      {
+          "name": "RCM Beteiligungs AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=50011107&meldungId=18630",
+          "isin": "DE000A1RFMY4",
+          "Position": "Vorstand",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "Ludwig Beck am Rathauseck - Textilhaus Feldmeier Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001527&meldungId=18616"
+      },
+      {
+          "name": "SAP SE",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001244&meldungId=18613",
+          "isin": "DE0007164600",
+          "Position": "Vorstand",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "niiio finance group AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=10115791&meldungId=18612"
+      },
+      {
+          "name": "HelloFresh SE",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40024258&meldungId=18627",
+          "isin": "DE000A161408",
+          "Position": "Aufsichtsrat",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "Eckert & Ziegler Strahlen- und Medizintechnik AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001731&meldungId=18623"
+      },
+      {
+          "name": "SANHA GmbH & Co. KG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40020280&meldungId=18621",
+          "isin": "DE000A1TNA70",
+          "Position": "Sonstige Führungsperson",
+          "ArtdesInsruments": "Schuldtitel"
+      },
+      {
+          "name": "SANHA GmbH & Co. KG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40020280&meldungId=18620"
+      },
+      {
+          "name": "Jungheinrich Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001106&meldungId=18622",
+          "isin": "DE0006219934",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "sino Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=10117593&meldungId=18635"
+      },
+      {
+          "name": "sino Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=10117593&meldungId=18629",
+          "isin": "DE0005765507",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "VARTA AKTIENGESELLSCHAFT",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40000882&meldungId=18617"
+      },
+      {
+          "name": "Jungheinrich Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001106&meldungId=18615",
+          "isin": "DE0006219934",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "HAMMONIA Schiffsholding AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40006795&meldungId=18614"
+      },
+      {
+          "name": "Weng Fine Art AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40019386&meldungId=18650",
+          "isin": "DE0005181606",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "Deutsche Wohnen SE",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001722&meldungId=18649"
+      },
+      {
+          "name": "Deutsche Wohnen SE",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001722&meldungId=18648",
+          "isin": "DE000A0HN5C6",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "Deutsche Wohnen SE",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001722&meldungId=18647"
+      },
+      {
+          "name": "Deutsche Wohnen SE",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001722&meldungId=18646",
+          "isin": "DE000A0HN5C6",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "Deutsche Wohnen SE",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001722&meldungId=18645"
+      },
+      {
+          "name": "Deutsche Wohnen SE",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001722&meldungId=18644",
+          "isin": "DE000A0HN5C6",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "iQ International AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40027926&meldungId=18656"
+      },
+      {
+          "name": "Zeitfracht Logistik Holding GmbH",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40031857&meldungId=18611",
+          "isin": "DE000A3H3JC5",
+          "Position": "in enger Beziehung",
+          "ArtdesInsruments": "Schuldtitel"
+      },
+      {
+          "name": "Weng Fine Art AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40019386&meldungId=18651"
+      },
+      {
+          "name": "Baader Bank Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=20000004&meldungId=18639",
+          "isin": "DE000A3E5BH9",
+          "Position": "Vorstand",
+          "ArtdesInsruments": "Anderes auf Aktie/schuldtitel bez. FI"
+      },
+      {
+          "name": "Baader Bank Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=20000004&meldungId=18638"
+      },
+      {
+          "name": "Westwing Group AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40027377&meldungId=18634",
+          "isin": "DE000A2N4H07",
+          "Position": "Vorstand",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "Westwing Group AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40027377&meldungId=18633"
+      },
+      {
+          "name": "Westwing Group AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40027377&meldungId=18632",
+          "isin": "DE000A2N4H07",
+          "Position": "Vorstand",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "Westwing Group AG",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40027377&meldungId=18631"
+      },
+      {
+          "name": "Jungheinrich Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001106&meldungId=18625",
+          "isin": "DE0006219934",
+          "Position": "Vorstand",
+          "ArtdesInsruments": "Aktie"
+      },
+      {
+          "name": "RWE Aktiengesellschaft",
+          "url": "https://portal.mvp.bafin.de/database/DealingsInfo/ergebnisListe.do?cmd=loadMeldepflichtigeAction&emittentBafinId=40001211&meldungId=18598"
+      }
+  ]
 }
